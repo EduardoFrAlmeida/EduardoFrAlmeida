@@ -5,7 +5,7 @@
 
 - 🤩 Aficionado por tecnologia e por conhecimento.
 - 👨‍🎓 Estudante de Análise de Sistemas, atualmente estou cursando o 3° semestre.
-- 🎯 Interesse: JavaScript, HTML, CSS, React, React Native.
+- 🎯 Interesses: React, React Native, JavaScript, HTML, CSS.
 - 💼 Open to Work: Em busca de oportunidades para colocar em prática meu conhecimento e adquirir experiência.
 
 <div>
