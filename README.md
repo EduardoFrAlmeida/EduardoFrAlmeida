@@ -1,11 +1,12 @@
-# Olá, meu nome é Eduardo! 
-## Conheça um pouco da minha jornada como Dev.
+# Olá, meu nome é Eduardo!👋
+## Conheça um pouco da minha jornada como Dev. 👀
 
 ### Um pouco sobre mim
 
+- 👨‍💻 Programador, atuando como Desenvolvedor Front-end Jr no momento, adquirindo novas habilidades, implementando e sempre em busca de conhecimento para aperfeiçoar minhas "skills" como dev. 
 - 🤩 Aficionado por tecnologia e por conhecimento.
-- 👨‍🎓 Estudante de Análise de Sistemas, atualmente estou cursando o 3° semestre.
-- 🎯 Interesses: React, React Native, JavaScript, HTML, CSS.
+- 👨‍🎓 Estudante de Análise de Sistemas, atualmente estou cursando o 4° semestre.
+- 🎯 Interesses: HTML, CSS, Sass,Bootstrap, JavaScript, Typescript, React, Node...
 <!-- - 💼 Open to Work: Em busca de oportunidades para colocar em prática meu conhecimento e adquirir experiência. -->
 
 <div>
