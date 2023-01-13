@@ -34,6 +34,6 @@
   <a href = "mailto:eduardofralmeida745@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eduardo-almeida-1999-ti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-## Total de Visitas no perfil :detective: <br>
+<!-- ## Total de Visitas no perfil :detective: <br>
  <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/EduardoFrAlmeida/count.svg" />
+   <img alingn="center" src="https://profile-counter.glitch.me/EduardoFrAlmeida/count.svg" /> -->
