@@ -3,25 +3,13 @@
 
 ### Um pouco sobre mim
 
-<!-- - 👨‍💻 Programador, atuando como Desenvolvedor Front-end Jr no momento, adquirindo novas habilidades, implementando e sempre em busca de conhecimento para aperfeiçoar minhas "skills" como dev. 
-- 🤩 Aficionado por tecnologia e por conhecimento.
-- 👨‍🎓 Formado em Análise de Sistemas.
-- 🎯 Interesses: HTML, CSS, JavaScript, Typescript, React, React Native, Node... -->
-<!-- - 💼 Open to Work: Em busca de oportunidades para colocar em prática meu conhecimento e adquirir experiência. -->
-
 - 👨‍💻 Meu nome é Eduardo, sou Desenvolvedor Front-end apaixonado por tecnologia e sempre em busca de aprendizado contínuo.<br> 
 Atualmente, estou em busca de novas habilidades e conhecimentos para aperfeiçoar minhas "skills" como dev.
 
 - 👨‍🎓 Formado em Análise de Sistemas.
 - 🎯 Tenho experiência em desenvolvimento de sites e aplicações web, utilizando HTML, CSS, JavaScript e TypeScript, bem como frameworks como React e Node.
-- Estou sempre buscando novos desafios e oportunidades para crescer profissionalmente e contribuir com projetos interessantes. 
+- 🚀 Estou sempre buscando novos desafios e oportunidades para crescer profissionalmente e contribuir com projetos interessantes. 
 #### Vamos conversar?
-
-<!-- <div>
-  <a href="https://github.com/EduardoFrAlmeida">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoFrAlmeida&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoFrAlmeida&layout=compact&langs_count=7&theme=react"/>
-</div> -->
 
 ## Entre em contato comigo: :iphone:
 <div> 
@@ -37,10 +25,14 @@ Atualmente, estou em busca de novas habilidades e conhecimentos para aperfeiçoa
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
- <!-- <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"> -->
   <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-<!--   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> -->
- <!-- <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
+  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  
+  <!-- <div>
+  <a href="https://github.com/EduardoFrAlmeida">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoFrAlmeida&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoFrAlmeida&layout=compact&langs_count=7&theme=react"/>
+</div> -->
   
   
 <!-- ## Total de Visitas no perfil :detective: <br>
